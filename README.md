@@ -1,9 +1,9 @@
 "# Food-Delivery-App" 
 Project Link:-
 
-frontend: https://food-delivery-app-frontend-t86p.onrender.com/
-backend: https://food-delivery-backend-v2cg.onrender.com/
-admin: https://food-delivery-app-admin-xf6t.onrender.com/add
+# frontend: https://food-delivery-app-frontend-t86p.onrender.com/
+# backend: https://food-delivery-backend-v2cg.onrender.com/
+# admin: https://food-delivery-app-admin-xf6t.onrender.com/add
 
 
 # Food Delivery App using MERN Stack
